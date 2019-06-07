@@ -27,7 +27,9 @@
 body{
     margin: 0;
     min-height: 100vh;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2dj_lcGvzRk5w7NLv5ILZkz9KuoPT9-UW3-DgirMLHx_bSz74Q');
+    background-image: url(img/fondo1.jpg);
+    /*background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2dj_lcGvzRk5w7NLv5ILZkz9KuoPT9-UW3-DgirMLHx_bSz74Q');
+    */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
